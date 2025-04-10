@@ -1,0 +1,4 @@
+Pikachu|15|Electrik|0|Femelle
+Bulbasaur|12|Plante|0|Femelle
+Charmander|14|Feu|0|Femelle
+Squirtle|11|Eau|0|Femelle
