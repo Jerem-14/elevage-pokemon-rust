@@ -23,7 +23,7 @@ Un système de gestion d'élevage de Pokémon développé en Rust. Cette applica
 
 ```bash
 git clone https://github.com/votre-nom/elevage-pokemon.git
-cd elevage-pokemon
+cd elevage-pokemon-rust
 ```
 
 2. Ajoutez les dépendances nécessaires à votre fichier `Cargo.toml` :
