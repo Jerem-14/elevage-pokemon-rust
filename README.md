@@ -160,10 +160,6 @@ L'application utilise l'API PokéAPI pour récupérer des informations sur les P
 - Types des Pokémon
 - Liste des 151 premiers Pokémon
 
-## Licence
-
-[Insérez votre licence ici]
-
 ---
 
 Développé dans le cadre d'un TP d'apprentissage de Rust.
